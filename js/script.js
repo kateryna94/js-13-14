@@ -7,7 +7,7 @@ var content = {
   question1: 'This is Greg, the boy _______ I was telling you about.',
   answer1: 'who',
   answer2: 'whom',
-  answer3: '-',
+  answer3: '---',
   question2: 'I wonder where ____________.',
   answer4: 'is the manager`s office',
   answer5: 'the manager`s office is',
